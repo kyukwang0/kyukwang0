@@ -1,4 +1,7 @@
-#### 🌱 안녕하세요 데이터엔지니어가 되고 싶은 최규광 입니다.
+
+#### mail : kyukwang0@gmail.com
+#### blog : https://kyu-1031.tistory.com
+#### notion : https://www.notion.so/890eba2b69f347449eff582dcb57295f
 
 
 ### 🐔 Tech Stack
