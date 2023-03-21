@@ -1,6 +1,8 @@
 
 #### 🌱T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
+#### ✨제 2회 소방안전 AI예측 경진대회 우수상 (22/10/17~22/11/30)
+
 ### 🐔 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-feda03?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic-square&logo=MYSQL&logoColor=white" width="100" height="30"/>  <img src="https://img.shields.io/badge/tableau-e97627?style=plastic-square&logo=tableau&logoColor=white" width="100" height="30"/>
